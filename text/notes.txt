@@ -1,0 +1,18 @@
+Catatan di bot ini
+
+*YouTube*
+1. Youtube Downloader (/ytdown)
+2. Youtube To Mp3 (/ytmp3)
+
+*Instagram*
+1. Instagram Feed/Reels Downloader (/igdown)
+2. Instagram Stories Downloader (/igstories)
+
+*Tiktok*
+1. Tiktok Downloader Whitout WM (/ttdown)
+
+*Lain-lain*
+1. Image to Stricker (/imgtostkr)
+2. About (/about)
+
+Gunakan / saat memanggil. Contoh /ytdown
