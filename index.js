@@ -17,7 +17,7 @@ const tiktokDownloader = require("./lib/handler/tiktok-downloader");
 const client = new Client({
   authStrategy: new LocalAuth(),
   puppeteer: {
-    headless: false,
+    headless: true,
     executablePath:
       "/usr/bin/google-chrome",
   },
