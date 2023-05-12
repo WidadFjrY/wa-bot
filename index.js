@@ -122,7 +122,7 @@ client.on("message", async (message) => {
     }
   } else if (message.body === "/about") {
     const content = [
-      "*CHAT BOT WA*\nVersion : V1.0.0 (Stable)\nMaintainer : WidadFjrY @_widadfjry\nTester :\n  - Nda @nda.xyz_\n  - Anang AW @aari.wb",
+      "*CHAT BOT WA*\nVersion : V1.0.0 (Stable)\nMaintainer : WidadFjrY\nTester :\n  - Nda \n  @nda.xyz_\n  - Anang AW \n  @aari.wb",
       "Hubungi saya jika ada masukan atau masalah(bug)\nwa.me/6282127264639",
     ];
     client.sendMessage(message.from, content[0]).then(() => {
