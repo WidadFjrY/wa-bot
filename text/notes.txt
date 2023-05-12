@@ -2,7 +2,7 @@ Catatan di bot ini
 
 *YouTube*
 1. Youtube Downloader (/ytmp4)
-2. Youtube Downloader Mp3 (/ytmp3)
+2. Youtube Converter Mp3 (/ytmp3)
 
 *Instagram*
 1. Instagram Feed/Reels Downloader (/igdown)
