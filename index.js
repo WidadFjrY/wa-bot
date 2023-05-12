@@ -57,11 +57,11 @@ client.on("message", async (message) => {
     greeting(client, message.from, sender);
   } else if (message.body === "/notes") {
     notes(client, message.from, sender);
-  } else if (message.body.startsWith("/ytdown ")) {
+  } else if (message.body.startsWith("/ytmp4 ")) {
     youtubeDownloaderMp4(message.body.split(" ")[1], client, message, sender);
-  } else if (message.body === "/ytdown") {
+  } else if (message.body === "/ytmp4") {
     const content =
-      "Untuk mendownload YouTube gunakan format\n/ytdown linkyoutube\n Contoh : /ytdown https://youtu.be/FXfqLUuVBis";
+      "Untuk mendownload YouTube gunakan format\n/ytmp4 linkyoutube\n Contoh : /ytmp4 https://youtu.be/FXfqLUuVBis";
     client.sendMessage(message.from, content);
     sendingMessage(sender, content);
   } else if (message.body.startsWith("/ytmp3 ")) {
