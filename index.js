@@ -18,8 +18,7 @@ const client = new Client({
   authStrategy: new LocalAuth(),
   puppeteer: {
     headless: true,
-    executablePath:
-      "/usr/bin/google-chrome",
+    executablePath: "/usr/bin/google-chrome",
   },
 });
 
@@ -123,7 +122,7 @@ client.on("message", async (message) => {
     }
   } else if (message.body === "/about") {
     const content = [
-      "*CHAT BOT WA*\nVersion : V0.0.5 (beta)\nMaintainer : WidadFjrY\nTester :\n  - Nda\n  - Anang AW",
+      "*CHAT BOT WA*\nVersion : V1.0.0 (Stable)\nMaintainer : WidadFjrY @_widadfjry\nTester :\n  - Nda @nda.xyz_\n  - Anang AW @aari.wb",
       "Hubungi saya jika ada masukan atau masalah(bug)\nwa.me/6282127264639",
     ];
     client.sendMessage(message.from, content[0]).then(() => {
