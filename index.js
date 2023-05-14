@@ -5,7 +5,7 @@ const {
   youtubeDownloaderMp3,
   youtubeDownloaderMp4,
 } = require("./lib/handler/youtube-downloader");
-const greeting = require("./lib/handler/greating");
+const greeting = require("./lib/handler/greeting");
 const notes = require("./lib/notes");
 const {
   feedReelDown,
