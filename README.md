@@ -31,14 +31,14 @@ Please follow the instructions and documentation provided to get started with th
 To deploy this project run
 
 - Clone this repository
-```
+```bash
 git clone https://github.com/WidadFjrY/wa-bot.git
 ```
 Clone the project repository to your local machine. 
 
 - Install Dependencies
 
-```
+```bash
   cd wa-bot
   npm i
 ```
@@ -94,22 +94,21 @@ We greatly appreciate contributions from developers to enhance the WhatsApp Bot 
 
 - Fork this repository to your GitHub account.
 - Clone the forked repository to your local machine.
-```
+```bash
 git clone https://github.com/WidadFjrY/wa-bot.git
-
 ```
 - Create a new branch for the feature or fix you will be working on
-```
+```bash
 git checkout -b new-feature
 ```
 - Make the necessary code changes as per the requirements.
 - Ensure that you have performed testing to ensure there are no new errors or bugs.
 - Commit the changes you have made.
-```
+```bash
 git commit -m "Add new feature"
 ```
 - Push the changes to the branch on your GitHub repository.
-```
+```bash
 git push origin new-feature
 ```
 - Create a pull request (PR) to the main repository. Provide a brief explanation of the changes you made.
