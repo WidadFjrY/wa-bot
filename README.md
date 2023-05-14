@@ -12,7 +12,7 @@ Please follow the instructions and documentation provided to get started with th
 
 ## Table of Content
 
-- [Getting Started](#getting_Started)
+- [Getting-Started](#getting_Started)
 - [Deployment](#deployment)
 - [Documentation](#documentation)
 - [Contributing](#contributing)
