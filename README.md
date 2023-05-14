@@ -87,7 +87,7 @@ Notes : TikTok stories and TikTok photos are not yet supported.
 
 | Commands | Type     | Description                       |
 | :-------- | :------- | :-------------------------------- |
-| `/imgtostkr <whit images>`      | `string and images` | To convert an image to a WhatsApp sticker. |
+| `/imgtostkr <with images>`      | `string and images` | To convert an image to a WhatsApp sticker. |
 
 
 ## Contributing
