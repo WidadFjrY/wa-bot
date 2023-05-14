@@ -46,6 +46,8 @@ Clone the project repository to your local machine.
 - If running it for the first time, scan the barcode using the WhatsApp app on your mobile device.
 
 - And boom, the WhatsApp bot is ready to be used!
+
+Notes : If you would to use Instagram downloader, before that add your instagram cookie in environment variable on your operating system, with variable INSTAGRAM_COOKIE
 ## Documentation
 Once you have successfully logged in using the QR code, you can send chats to that phone number.
 
