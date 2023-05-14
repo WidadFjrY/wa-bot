@@ -31,14 +31,14 @@ Please follow the instructions and documentation provided to get started with th
 To deploy this project run
 
 - Clone this repository
-```bash
+```
 git clone https://github.com/WidadFjrY/wa-bot.git
 ```
 Clone the project repository to your local machine. 
 
 - Install Dependencies
 
-```bash
+```
   cd wa-bot
   npm i
 ```
